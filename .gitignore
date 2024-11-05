@@ -1,0 +1,19 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore all Pickle files
+*.pkl
+*.pickle
+
+# Ignore the recommended images directory
+recommend_images/
+
+# Ignore the uploads directory
+uploads/
+
+# Ignore any CSV files in any folder named 'csv files'
+csv files/*.csv
+
+# Ignore any Pickle files in any folder named 'pickle files'
+pickle files/*.pkl
+pickle files/*.pickle
